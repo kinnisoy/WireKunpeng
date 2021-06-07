@@ -1,0 +1,7 @@
+psutil
+scapy
+matplotlib==3.2.2
+PySide2
+WMI
+pywin32
+numpy
